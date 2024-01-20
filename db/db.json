@@ -1,0 +1,38 @@
+{
+  "holders": [
+  ],
+  "reserves": [
+  ],
+  "jogadores": [
+    {
+      "name": "Luka Doncic",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=350&h=254",
+      "id": "0d93",
+      "used": false
+    },
+    {
+      "id": "0619",
+      "name": "Stephen Curry",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png",
+      "used": false
+    },
+    {
+      "id": "567c",
+      "name": "Kyrie Irving",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6442.png&w=350&h=254",
+      "used": false
+    },
+    {
+      "id": "c48f",
+      "name": "Nikola Jokic",
+      "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3112335.png&w=350&h=254",
+      "used": false
+    },
+    {
+      "id": "4cbb",
+      "name": "Lebron James",
+      "img": "https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png",
+      "used": false
+    }
+  ]
+}
